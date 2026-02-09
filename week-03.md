@@ -26,7 +26,7 @@ This particular phrase spoke to me because it shows how the impact of everyday a
 
 2\. Follow instructions in "My First Square Wave Oscillator" experiment (Pearson 59-71) to create a breadboard oscillator. Share a photo.
 
-!(osci)[osci.jpg]
+![osci](osci.jpg)
 
 
 3\. Create at least one variation on your oscillator inspired by four variations on the circuit. Share a video of your your device.
@@ -77,7 +77,7 @@ Part number 8 controls the voltage, and therefore modifies the amplitude/volume.
 
 9\. Post a photo of your Snapon board testing.
 
-!(snapon)[snapon.jpg]
+![snapon](snapon.jpg)
 
 
 

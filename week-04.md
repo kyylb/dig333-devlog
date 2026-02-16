@@ -65,16 +65,21 @@ print("Loop starting!")
 7\. Chapter 2: "Challenge: Loop the Loop" (26)
 
 ```python
-
+print("Loop starting!")
+for i in range(10000):
+  print("Loop running!")
+print("Loop finished!")
 ```
 
 8\. Chapter 2: "Challenge: Add More Questions" (26)
 
 ```python
-print("Loop starting!")
-for i in range(10000):
-  print("Loop running!")
-print("Loop finished!")
+user_name = input ("What is your name? ")
+while user_name != "Clark Kent":
+  print("You are not Superman - try again!")
+  user_name = input("What is your name? ")
+  print("You are Superman!")
+  preference = input("Would you like to be Superman? ")
 
 ```
 

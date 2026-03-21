@@ -51,10 +51,10 @@ https://youtu.be/7iM7FUXrSN8
 https://youtube.com/shorts/XYslZ12iYtQ
 
 9\. Post documentation of your progress on the Musical Instrument
-
+![progress](progress.jpeg)
 
 10\. Post documentation of your progress on the Musical Instrument
-
+![prog2](prog2.jpeg)
 
 
 

@@ -39,7 +39,7 @@ https://youtu.be/RnTRupddfDU
 
 5\. Connect to your Pi over SFTP and upload / download files ✏️
 
-- Post a screenshot from your FTP program here
+![sftp](sftp.png)
 
 
 
@@ -50,7 +50,7 @@ https://youtu.be/IIzHIs5HDHM
 
 7\. Read values from a photoresistor with your Pi ✏️ 
 
-- Post video documentation here
+Done in class
 
 
 
@@ -65,7 +65,7 @@ https://youtu.be/IIzHIs5HDHM
 
 9\. Use a relay to safely control a higher power voltage with your Pi ✏️ 
 
-- Post video documentation here
+Done in class
 
 
 10\. Link to your final project pitch ✏️ 
